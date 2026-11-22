@@ -166,7 +166,8 @@ The application uses:
 - Group chat management
 
 ## Author
-
+Ayaan khan
+INTERN ID:CITS9302
 Developed as part of the CODTECH IT Solutions internship program.
 
 **Project:** Real-Time Chat Application
